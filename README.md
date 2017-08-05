@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Compute](https://github.com/Boostorg/Compute) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Compute%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Compute%3Abincrafters).
 
 ## For Users: Use this package
 
