@@ -8,7 +8,8 @@ class BoostComputeConan(ConanFile):
     name = "boost_compute"
     version = "1.66.0"
     url = "https://github.com/bincrafters/conan-boost_compute"
-
+    author = "Bincrafters <bincrafters@gmail.com>"
+    exports = ["LICENSE.md"]
     lib_short_names = ["compute"]
     is_header_only = True
 
