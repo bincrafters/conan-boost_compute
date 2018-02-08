@@ -1,8 +1,8 @@
 ## Package Status
 
-| Bintray | Windows | Linux | OSX |
-|---------|------------|--------|------|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/boost_compute%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/boost_compute%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_compute?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-compute)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_compute.svg)](https://travis-ci.org/bincrafters/conan-boost_compute)|N/A|
+| Bintray | Windows | Linux & macOS | 
+|:--------:|:---------:|:-----------------:|
+|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/boost_compute%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/boost_compute%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_compute?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-compute)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_compute.svg)](https://travis-ci.org/bincrafters/conan-boost_compute)|
 
 ## Conan.io Information
 
